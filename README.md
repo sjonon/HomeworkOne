@@ -1,2 +1,2 @@
 # HomeworkOne
-My first homework assignments
+My first homework assignment, it's a work in progress
